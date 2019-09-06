@@ -1,0 +1,3 @@
+[submodule "Assets/Scripts/BADAS_Scripts"]
+	path = Assets/Scripts/BADAS_Scripts
+	url = https://github.com/NotoriousENG/BADAS_Scripts.git
